@@ -1,31 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: redlinejoes # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
 
-sites:
+sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    maxResponseTime: 5000
+    # expectedStatusCodes:
+  - name: Redline Joe's Network
+    url: https://redlinejoes.net
+    maxResponseTime: 5000
+    # expectedStatusCodes:
+  - name: Young Security Inc
+    url: http://youngsecurity.net
+    maxResponseTime: 5000
+    # expectedStatusCodes:
+  # - name: Frylock-XG
+    # url: $REDLINEJOES_BOUNCEME
+  # - name: Frylock-XG HTTP
+    # check: "tcp-ping"
+    # url: $FRYLOCK_XG
+    # port: 80
+  # - name: Frylock-XG HTTPS
+    # check: "tcp-ping"
+    # url: $FRYLOCK_XG
+    # port: 443
+
+assignees: # Users to assign downtime issues (optional)
+  - redlinejoes
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.redlinejoes.net # Custom domain CNAME
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # logoUrl: https://raw.githubusercontent.com/redlinejoes/upptime/master/assets/upptime-icon.svg
+  name: RedlineJoes Network Uptime # Status website title
+  theme: ocean
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Young Security
+      href: http://youngsecurity.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
