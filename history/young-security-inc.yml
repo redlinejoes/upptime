@@ -1,7 +1,7 @@
 url: http://youngsecurity.net
-status: up
-code: 200
-responseTime: 4689
-lastUpdated: 2024-02-09T23:09:13.015Z
+status: down
+code: 500
+responseTime: 193
+lastUpdated: 2024-02-10T16:44:23.618Z
 startTime: 2023-01-26T08:03:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
