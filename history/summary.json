@@ -43,19 +43,19 @@
     "url": "http://youngsecurity.net",
     "icon": "https://icons.duckduckgo.com/ip3/youngsecurity.net.ico",
     "slug": "young-security-inc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 242,
-    "timeWeek": 252,
-    "timeMonth": 241,
-    "timeYear": 579,
+    "timeDay": 178,
+    "timeWeek": 235,
+    "timeMonth": 237,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 10
     }
   }
 ]
