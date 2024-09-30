@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 245,
-    "timeWeek": 330,
-    "timeMonth": 302,
+    "timeDay": 348,
+    "timeWeek": 336,
+    "timeMonth": 306,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -45,17 +45,15 @@
     "slug": "young-security-inc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 178,
-    "timeWeek": 235,
-    "timeMonth": 237,
-    "timeYear": 577,
-    "dailyMinutesDown": {
-      "2024-09-29": 10
-    }
+    "timeDay": 179,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 576,
+    "dailyMinutesDown": {}
   }
 ]
