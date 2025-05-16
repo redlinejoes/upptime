@@ -24,9 +24,9 @@
     "url": "https://redlinejoes.net",
     "icon": "https://icons.duckduckgo.com/ip3/redlinejoes.net.ico",
     "slug": "redline-joe-s-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-16": 0
+    }
   },
   {
     "name": "Young Security Inc",
