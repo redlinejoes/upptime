@@ -24,19 +24,19 @@
     "url": "https://redlinejoes.net",
     "icon": "https://icons.duckduckgo.com/ip3/redlinejoes.net.ico",
     "slug": "redline-joe-s-network",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 342,
-    "timeWeek": 296,
-    "timeMonth": 296,
+    "timeDay": 307,
+    "timeWeek": 293,
+    "timeMonth": 295,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-05-16": 0
+      "2025-05-16": 12
     }
   },
   {
