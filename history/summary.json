@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 263,
-    "timeWeek": 133,
-    "timeMonth": 114,
+    "timeDay": 86,
+    "timeWeek": 132,
+    "timeMonth": 111,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-07-01": 25
@@ -26,18 +26,16 @@
     "slug": "redline-joe-s-network",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 307,
-    "timeWeek": 293,
+    "timeDay": 213,
+    "timeWeek": 269,
     "timeMonth": 295,
     "timeYear": 281,
-    "dailyMinutesDown": {
-      "2025-05-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Young Security Inc",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
-    "timeDay": 167,
-    "timeWeek": 200,
-    "timeMonth": 223,
+    "timeDay": 140,
+    "timeWeek": 176,
+    "timeMonth": 219,
     "timeYear": 220,
     "dailyMinutesDown": {}
   }
